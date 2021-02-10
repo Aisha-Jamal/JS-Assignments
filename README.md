@@ -1,2 +1,2 @@
-# JS-Assignments
-PIAIC Javascript Assignments
+# JS-Assignment
+PIAIC Javascript Assignment
